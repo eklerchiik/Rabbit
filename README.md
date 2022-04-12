@@ -2,7 +2,7 @@
 
 ## About project
 
-This project is a Reddit analogue.
+This project is similar to Reddit.
 Project based on:
 > Laravel framework (v. 8), Docker, MySQL (v. 8.0.25) and PHP (v. 7.4). 
 
